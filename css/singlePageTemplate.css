@@ -107,14 +107,17 @@ ul li:hover a {
 	color: #A3A3A3;
 }
 .about {
-	padding-left: 25px;
-	padding-right: 25px;
+	padding-left: 5px;
+	padding-right: 5px;
 	padding-top: 35px;
 	display: inline-block;
 	background-color: #FFFFFF;
 	margin-top: 0px;
-	font-size: larger;
 	text-align: center;
+	font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, sans-serif;
+	color: #4D4D4D;
+	float: left;
+	position: static;
 }
 /* Stats Gallery */
 .stats {
